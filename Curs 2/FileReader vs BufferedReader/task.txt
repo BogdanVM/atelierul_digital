@@ -1,0 +1,6 @@
+---------------- IO EXAMPLES -------------------
+
+	- Write a method that copies a txt from one location to another using
+		FileReader and FileWriter;
+	- Also measure performance differences if you add a BufferedReader and
+		BufferedWriter.

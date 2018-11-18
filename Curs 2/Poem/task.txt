@@ -1,0 +1,2 @@
+	- Using Scanner, count how many times a word appears in the poem from the file "poem.txt".
+	- Display top 10 word counts to the console after counting all.

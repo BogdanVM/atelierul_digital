@@ -1,0 +1,7 @@
+Create the following objects and then use try-with-resources and observe how suppressed exceptions work:
+
+	- Create 2 RuntimeExceptions called Exception01 and Exception02;
+	- Create MyClosableResource as an AutoClosable resource that throws 
+		Exception01 on the close() method;
+	
+	- Then using the code in the main() method, observe suppressed exceptions.
